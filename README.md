@@ -2,4 +2,4 @@
 
 Please feel free to contact me.
 
-![](https://github-readme-stats.vercel.app/api?username=zahmis)
+![Sizma's github stats](https://github-readme-stats.vercel.app/api?username=zahmis&show_icons=true&theme=cobalt)
